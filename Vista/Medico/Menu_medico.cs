@@ -7,6 +7,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+using Vista.Secretario;
 
 namespace Vista.Medico
 {
@@ -15,6 +16,47 @@ namespace Vista.Medico
         public Menu_medico()
         {
             InitializeComponent();
+            L_mensaje.Text = "";
+        }
+
+        private void B_guardarConsulta_Click(object sender, EventArgs e)
+        {
+            Form frm = Application.OpenForms.Cast<Form>().FirstOrDefault(x => x is Guardar_consulta);
+            if (frm == null)
+            {
+                Guardar_consulta consulta = new Guardar_consulta();
+                consulta.TopLevel = false;
+                consulta.Dock = DockStyle.Fill;
+                splitContainer1.Panel2.Controls.Add(consulta);
+                consulta.BringToFront();
+                consulta.Show();
+                L_mensaje.Text = "";
+            }
+            else
+            {
+                L_mensaje.Text = "*La ventana esta abierta";
+
+            }
+        }
+
+        private void B_historialPaciente_Click(object sender, EventArgs e)
+        {
+            Form frm = Application.OpenForms.Cast<Form>().FirstOrDefault(x => x is Historial_paciente);
+            if (frm == null)
+            {
+                Historial_paciente historial = new Historial_paciente();
+                historial.TopLevel = false;
+                historial.Dock = DockStyle.Fill;
+                splitContainer1.Panel2.Controls.Add(historial);
+                historial.BringToFront();
+                historial.Show();
+                L_mensaje.Text = "";
+            }
+            else
+            {
+                L_mensaje.Text = "*La ventana esta abierta";
+
+            }
         }
     }
 }
