@@ -28,3 +28,8 @@ C:\Users\Admin\Documents\Trabajo de Campo2\MediTurno\Vista\obj\Debug\Vista.Secre
 C:\Users\Admin\Documents\Trabajo de Campo2\MediTurno\Vista\obj\Debug\Vista.Secretario.Menu_secretario.resources
 C:\Users\Admin\Documents\Trabajo de Campo2\MediTurno\Vista\obj\Debug\Vista.Secretario.Modificar_turno.resources
 C:\Users\Admin\Documents\Trabajo de Campo2\MediTurno\Vista\obj\Debug\Vista.Secretario.Modificar_paciente.resources
+C:\Users\Admin\Documents\Trabajo de Campo2\MediTurno\Vista\obj\Debug\Vista.Administrador.Menu_administrador.resources
+C:\Users\Admin\Documents\Trabajo de Campo2\MediTurno\Vista\obj\Debug\Vista.Administrador.Modificar_medico.resources
+C:\Users\Admin\Documents\Trabajo de Campo2\MediTurno\Vista\obj\Debug\Vista.Administrador.Modificar_secretario.resources
+C:\Users\Admin\Documents\Trabajo de Campo2\MediTurno\Vista\obj\Debug\Vista.Medico.Historial_paciente.resources
+C:\Users\Admin\Documents\Trabajo de Campo2\MediTurno\Vista\obj\Debug\Vista.Medico.Menu_medico.resources
