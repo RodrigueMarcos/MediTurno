@@ -82,7 +82,7 @@
             this.B_iniciarSesion.TabIndex = 4;
             this.B_iniciarSesion.Text = "Iniciar Sesion";
             this.B_iniciarSesion.UseVisualStyleBackColor = false;
-            this.B_iniciarSesion.Click += new System.EventHandler(this.button1_Click);
+            this.B_iniciarSesion.Click += new System.EventHandler(this.B_iniciarSesion_Click);
             // 
             // Login
             // 
