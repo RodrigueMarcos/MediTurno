@@ -17,7 +17,7 @@ namespace Vista
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new Agregar_medico());
+            Application.Run(new Login());
         }
     }
 }

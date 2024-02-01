@@ -10,3 +10,14 @@ E:\Documents\Ingenieria de Software II\MediTurno\Vista\obj\Debug\Vista.csproj.Ge
 E:\Documents\Ingenieria de Software II\MediTurno\Vista\obj\Debug\Vista.csproj.CoreCompileInputs.cache
 E:\Documents\Ingenieria de Software II\MediTurno\Vista\obj\Debug\Vista.exe
 E:\Documents\Ingenieria de Software II\MediTurno\Vista\obj\Debug\Vista.pdb
+E:\Documents\Ingenieria de Software II\MediTurno\Vista\obj\Debug\Vista.Secretario.Menu_secretario.resources
+E:\Documents\Ingenieria de Software II\MediTurno\Vista\obj\Debug\Vista.Secretario.Agregar_turno.resources
+E:\Documents\Ingenieria de Software II\MediTurno\Vista\obj\Debug\Vista.Secretario.Alta_paciente.resources
+E:\Documents\Ingenieria de Software II\MediTurno\Vista\obj\Debug\Vista.Secretario.Modificar_paciente.resources
+E:\Documents\Ingenieria de Software II\MediTurno\Vista\obj\Debug\Vista.Secretario.Modificar_turno.resources
+E:\Documents\Ingenieria de Software II\MediTurno\Vista\obj\Debug\Vista.Administrador.Menu_administrador.resources
+E:\Documents\Ingenieria de Software II\MediTurno\Vista\obj\Debug\Vista.Administrador.Modificar_medico.resources
+E:\Documents\Ingenieria de Software II\MediTurno\Vista\obj\Debug\Vista.Administrador.Modificar_secretario.resources
+E:\Documents\Ingenieria de Software II\MediTurno\Vista\obj\Debug\Vista.Medico.Guardar_consulta.resources
+E:\Documents\Ingenieria de Software II\MediTurno\Vista\obj\Debug\Vista.Medico.Historial_paciente.resources
+E:\Documents\Ingenieria de Software II\MediTurno\Vista\obj\Debug\Vista.Medico.Menu_medico.resources
