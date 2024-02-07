@@ -46,7 +46,11 @@
             // 
             this.L_filtro.AutoSize = true;
             this.L_filtro.ForeColor = System.Drawing.Color.White;
+<<<<<<< HEAD
             this.L_filtro.Location = new System.Drawing.Point(164, 30);
+=======
+            this.L_filtro.Location = new System.Drawing.Point(169, 69);
+>>>>>>> d25650e098d44ccb0a9d70f5211efe0806ee0877
             this.L_filtro.Name = "L_filtro";
             this.L_filtro.Size = new System.Drawing.Size(29, 13);
             this.L_filtro.TabIndex = 16;
@@ -58,7 +62,11 @@
             this.panel1.Controls.Add(this.DT_fecha);
             this.panel1.Controls.Add(this.L_fecha);
             this.panel1.Controls.Add(this.CB_estado);
+<<<<<<< HEAD
             this.panel1.Location = new System.Drawing.Point(156, 55);
+=======
+            this.panel1.Location = new System.Drawing.Point(161, 94);
+>>>>>>> d25650e098d44ccb0a9d70f5211efe0806ee0877
             this.panel1.Name = "panel1";
             this.panel1.Size = new System.Drawing.Size(381, 100);
             this.panel1.TabIndex = 15;
@@ -102,7 +110,11 @@
             // 
             this.B_Cambiar.BackColor = System.Drawing.Color.DodgerBlue;
             this.B_Cambiar.ForeColor = System.Drawing.Color.White;
+<<<<<<< HEAD
             this.B_Cambiar.Location = new System.Drawing.Point(513, 261);
+=======
+            this.B_Cambiar.Location = new System.Drawing.Point(518, 300);
+>>>>>>> d25650e098d44ccb0a9d70f5211efe0806ee0877
             this.B_Cambiar.Name = "B_Cambiar";
             this.B_Cambiar.Size = new System.Drawing.Size(75, 23);
             this.B_Cambiar.TabIndex = 14;
@@ -112,7 +124,11 @@
             // CB_EstadoSeleccionado
             // 
             this.CB_EstadoSeleccionado.FormattingEnabled = true;
+<<<<<<< HEAD
             this.CB_EstadoSeleccionado.Location = new System.Drawing.Point(513, 203);
+=======
+            this.CB_EstadoSeleccionado.Location = new System.Drawing.Point(518, 242);
+>>>>>>> d25650e098d44ccb0a9d70f5211efe0806ee0877
             this.CB_EstadoSeleccionado.Name = "CB_EstadoSeleccionado";
             this.CB_EstadoSeleccionado.Size = new System.Drawing.Size(121, 21);
             this.CB_EstadoSeleccionado.TabIndex = 13;
@@ -121,7 +137,11 @@
             // 
             this.L_EstadoSeleccionado.AutoSize = true;
             this.L_EstadoSeleccionado.ForeColor = System.Drawing.Color.White;
+<<<<<<< HEAD
             this.L_EstadoSeleccionado.Location = new System.Drawing.Point(510, 163);
+=======
+            this.L_EstadoSeleccionado.Location = new System.Drawing.Point(515, 202);
+>>>>>>> d25650e098d44ccb0a9d70f5211efe0806ee0877
             this.L_EstadoSeleccionado.Name = "L_EstadoSeleccionado";
             this.L_EstadoSeleccionado.Size = new System.Drawing.Size(40, 13);
             this.L_EstadoSeleccionado.TabIndex = 12;
@@ -130,7 +150,11 @@
             // dataGridView1
             // 
             this.dataGridView1.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
+<<<<<<< HEAD
             this.dataGridView1.Location = new System.Drawing.Point(156, 192);
+=======
+            this.dataGridView1.Location = new System.Drawing.Point(161, 231);
+>>>>>>> d25650e098d44ccb0a9d70f5211efe0806ee0877
             this.dataGridView1.Name = "dataGridView1";
             this.dataGridView1.Size = new System.Drawing.Size(240, 150);
             this.dataGridView1.TabIndex = 11;

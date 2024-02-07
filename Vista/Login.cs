@@ -54,5 +54,35 @@ namespace Vista
         {
 
         }
+
+        private void B_iniciarSesion_Click(object sender, EventArgs e)
+        {
+            if (TB_Usuario.Text == "a")
+            {
+                Menu_administrador menu_a = new Menu_administrador();
+                this.Hide();
+                menu_a.ShowDialog();
+                this.Show();
+
+            }
+            if (TB_Usuario.Text == "s")
+            {
+                Menu_secretario menu_s = new Menu_secretario();
+                this.Hide(); //oculta el form actual
+                menu_s.ShowDialog();
+                this.Show();
+
+
+            }
+            if (TB_Usuario.Text == "m")
+            {
+                Menu_medico menu_s = new Menu_medico();
+                this.Hide(); //oculta el form actual
+                menu_s.ShowDialog();
+                this.Show();
+
+
+            }
+        }
     }
 }

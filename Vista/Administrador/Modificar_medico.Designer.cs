@@ -60,7 +60,11 @@
             // dataGridView1
             // 
             this.dataGridView1.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
+<<<<<<< HEAD
             this.dataGridView1.Location = new System.Drawing.Point(39, 164);
+=======
+            this.dataGridView1.Location = new System.Drawing.Point(29, 163);
+>>>>>>> d25650e098d44ccb0a9d70f5211efe0806ee0877
             this.dataGridView1.Name = "dataGridView1";
             this.dataGridView1.Size = new System.Drawing.Size(240, 150);
             this.dataGridView1.TabIndex = 77;
@@ -72,7 +76,11 @@
             this.panel1.Controls.Add(this.L_MatriculaFiltro);
             this.panel1.Controls.Add(this.LdniFiltro);
             this.panel1.Controls.Add(this.L_Filtro);
+<<<<<<< HEAD
             this.panel1.Location = new System.Drawing.Point(243, 8);
+=======
+            this.panel1.Location = new System.Drawing.Point(233, 7);
+>>>>>>> d25650e098d44ccb0a9d70f5211efe0806ee0877
             this.panel1.Name = "panel1";
             this.panel1.Size = new System.Drawing.Size(373, 100);
             this.panel1.TabIndex = 76;
@@ -125,7 +133,11 @@
             // CB_especialidad
             // 
             this.CB_especialidad.FormattingEnabled = true;
+<<<<<<< HEAD
             this.CB_especialidad.Location = new System.Drawing.Point(497, 261);
+=======
+            this.CB_especialidad.Location = new System.Drawing.Point(487, 260);
+>>>>>>> d25650e098d44ccb0a9d70f5211efe0806ee0877
             this.CB_especialidad.Margin = new System.Windows.Forms.Padding(4);
             this.CB_especialidad.Name = "CB_especialidad";
             this.CB_especialidad.Size = new System.Drawing.Size(160, 21);
@@ -133,7 +145,11 @@
             // 
             // DT_fecNacimiento
             // 
+<<<<<<< HEAD
             this.DT_fecNacimiento.Location = new System.Drawing.Point(493, 153);
+=======
+            this.DT_fecNacimiento.Location = new System.Drawing.Point(483, 152);
+>>>>>>> d25650e098d44ccb0a9d70f5211efe0806ee0877
             this.DT_fecNacimiento.Margin = new System.Windows.Forms.Padding(4);
             this.DT_fecNacimiento.Name = "DT_fecNacimiento";
             this.DT_fecNacimiento.Size = new System.Drawing.Size(265, 20);
@@ -141,7 +157,11 @@
             // 
             // TB_correo
             // 
+<<<<<<< HEAD
             this.TB_correo.Location = new System.Drawing.Point(497, 202);
+=======
+            this.TB_correo.Location = new System.Drawing.Point(487, 201);
+>>>>>>> d25650e098d44ccb0a9d70f5211efe0806ee0877
             this.TB_correo.Margin = new System.Windows.Forms.Padding(4);
             this.TB_correo.Name = "TB_correo";
             this.TB_correo.Size = new System.Drawing.Size(132, 20);
@@ -149,7 +169,11 @@
             // 
             // TB_celular
             // 
+<<<<<<< HEAD
             this.TB_celular.Location = new System.Drawing.Point(350, 351);
+=======
+            this.TB_celular.Location = new System.Drawing.Point(340, 350);
+>>>>>>> d25650e098d44ccb0a9d70f5211efe0806ee0877
             this.TB_celular.Margin = new System.Windows.Forms.Padding(4);
             this.TB_celular.Name = "TB_celular";
             this.TB_celular.Size = new System.Drawing.Size(132, 20);
@@ -157,7 +181,11 @@
             // 
             // TB_matricula
             // 
+<<<<<<< HEAD
             this.TB_matricula.Location = new System.Drawing.Point(350, 307);
+=======
+            this.TB_matricula.Location = new System.Drawing.Point(340, 306);
+>>>>>>> d25650e098d44ccb0a9d70f5211efe0806ee0877
             this.TB_matricula.Margin = new System.Windows.Forms.Padding(4);
             this.TB_matricula.Name = "TB_matricula";
             this.TB_matricula.Size = new System.Drawing.Size(132, 20);
@@ -165,7 +193,11 @@
             // 
             // TB_dni
             // 
+<<<<<<< HEAD
             this.TB_dni.Location = new System.Drawing.Point(350, 259);
+=======
+            this.TB_dni.Location = new System.Drawing.Point(340, 258);
+>>>>>>> d25650e098d44ccb0a9d70f5211efe0806ee0877
             this.TB_dni.Margin = new System.Windows.Forms.Padding(4);
             this.TB_dni.Name = "TB_dni";
             this.TB_dni.Size = new System.Drawing.Size(132, 20);
@@ -173,7 +205,11 @@
             // 
             // TB_apellido
             // 
+<<<<<<< HEAD
             this.TB_apellido.Location = new System.Drawing.Point(350, 211);
+=======
+            this.TB_apellido.Location = new System.Drawing.Point(340, 210);
+>>>>>>> d25650e098d44ccb0a9d70f5211efe0806ee0877
             this.TB_apellido.Margin = new System.Windows.Forms.Padding(4);
             this.TB_apellido.Name = "TB_apellido";
             this.TB_apellido.Size = new System.Drawing.Size(132, 20);
@@ -181,7 +217,11 @@
             // 
             // TB_nombre
             // 
+<<<<<<< HEAD
             this.TB_nombre.Location = new System.Drawing.Point(343, 152);
+=======
+            this.TB_nombre.Location = new System.Drawing.Point(333, 151);
+>>>>>>> d25650e098d44ccb0a9d70f5211efe0806ee0877
             this.TB_nombre.Margin = new System.Windows.Forms.Padding(4);
             this.TB_nombre.Name = "TB_nombre";
             this.TB_nombre.Size = new System.Drawing.Size(132, 20);
@@ -190,7 +230,11 @@
             // B_Cancelar
             // 
             this.B_Cancelar.BackColor = System.Drawing.Color.DodgerBlue;
+<<<<<<< HEAD
             this.B_Cancelar.Location = new System.Drawing.Point(371, 368);
+=======
+            this.B_Cancelar.Location = new System.Drawing.Point(361, 367);
+>>>>>>> d25650e098d44ccb0a9d70f5211efe0806ee0877
             this.B_Cancelar.Margin = new System.Windows.Forms.Padding(4);
             this.B_Cancelar.Name = "B_Cancelar";
             this.B_Cancelar.Size = new System.Drawing.Size(100, 28);
@@ -201,7 +245,11 @@
             // B_Guardar
             // 
             this.B_Guardar.BackColor = System.Drawing.Color.DodgerBlue;
+<<<<<<< HEAD
             this.B_Guardar.Location = new System.Drawing.Point(222, 368);
+=======
+            this.B_Guardar.Location = new System.Drawing.Point(212, 367);
+>>>>>>> d25650e098d44ccb0a9d70f5211efe0806ee0877
             this.B_Guardar.Margin = new System.Windows.Forms.Padding(4);
             this.B_Guardar.Name = "B_Guardar";
             this.B_Guardar.Size = new System.Drawing.Size(100, 28);
@@ -214,7 +262,11 @@
             this.L_Especialidad.AutoSize = true;
             this.L_Especialidad.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.L_Especialidad.ForeColor = System.Drawing.Color.White;
+<<<<<<< HEAD
             this.L_Especialidad.Location = new System.Drawing.Point(493, 231);
+=======
+            this.L_Especialidad.Location = new System.Drawing.Point(483, 230);
+>>>>>>> d25650e098d44ccb0a9d70f5211efe0806ee0877
             this.L_Especialidad.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.L_Especialidad.Name = "L_Especialidad";
             this.L_Especialidad.Size = new System.Drawing.Size(87, 16);
@@ -226,7 +278,11 @@
             this.L_Correo.AutoSize = true;
             this.L_Correo.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.L_Correo.ForeColor = System.Drawing.Color.White;
+<<<<<<< HEAD
             this.L_Correo.Location = new System.Drawing.Point(494, 182);
+=======
+            this.L_Correo.Location = new System.Drawing.Point(484, 181);
+>>>>>>> d25650e098d44ccb0a9d70f5211efe0806ee0877
             this.L_Correo.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.L_Correo.Name = "L_Correo";
             this.L_Correo.Size = new System.Drawing.Size(48, 16);
@@ -238,7 +294,11 @@
             this.L_fecNacimiento.AutoSize = true;
             this.L_fecNacimiento.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.L_fecNacimiento.ForeColor = System.Drawing.Color.White;
+<<<<<<< HEAD
             this.L_fecNacimiento.Location = new System.Drawing.Point(490, 133);
+=======
+            this.L_fecNacimiento.Location = new System.Drawing.Point(480, 132);
+>>>>>>> d25650e098d44ccb0a9d70f5211efe0806ee0877
             this.L_fecNacimiento.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.L_fecNacimiento.Name = "L_fecNacimiento";
             this.L_fecNacimiento.Size = new System.Drawing.Size(135, 16);
@@ -250,7 +310,11 @@
             this.L_Telefono.AutoSize = true;
             this.L_Telefono.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.L_Telefono.ForeColor = System.Drawing.Color.White;
+<<<<<<< HEAD
             this.L_Telefono.Location = new System.Drawing.Point(339, 332);
+=======
+            this.L_Telefono.Location = new System.Drawing.Point(329, 331);
+>>>>>>> d25650e098d44ccb0a9d70f5211efe0806ee0877
             this.L_Telefono.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.L_Telefono.Name = "L_Telefono";
             this.L_Telefono.Size = new System.Drawing.Size(106, 16);
@@ -262,7 +326,11 @@
             this.L_Matricula.AutoSize = true;
             this.L_Matricula.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.L_Matricula.ForeColor = System.Drawing.Color.White;
+<<<<<<< HEAD
             this.L_Matricula.Location = new System.Drawing.Point(339, 287);
+=======
+            this.L_Matricula.Location = new System.Drawing.Point(329, 286);
+>>>>>>> d25650e098d44ccb0a9d70f5211efe0806ee0877
             this.L_Matricula.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.L_Matricula.Name = "L_Matricula";
             this.L_Matricula.Size = new System.Drawing.Size(61, 16);
@@ -274,7 +342,11 @@
             this.L_dni.AutoSize = true;
             this.L_dni.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.L_dni.ForeColor = System.Drawing.Color.White;
+<<<<<<< HEAD
             this.L_dni.Location = new System.Drawing.Point(339, 239);
+=======
+            this.L_dni.Location = new System.Drawing.Point(329, 238);
+>>>>>>> d25650e098d44ccb0a9d70f5211efe0806ee0877
             this.L_dni.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.L_dni.Name = "L_dni";
             this.L_dni.Size = new System.Drawing.Size(30, 16);
@@ -286,7 +358,11 @@
             this.L_Apellido.AutoSize = true;
             this.L_Apellido.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.L_Apellido.ForeColor = System.Drawing.Color.White;
+<<<<<<< HEAD
             this.L_Apellido.Location = new System.Drawing.Point(335, 191);
+=======
+            this.L_Apellido.Location = new System.Drawing.Point(325, 190);
+>>>>>>> d25650e098d44ccb0a9d70f5211efe0806ee0877
             this.L_Apellido.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.L_Apellido.Name = "L_Apellido";
             this.L_Apellido.Size = new System.Drawing.Size(57, 16);
@@ -298,7 +374,11 @@
             this.L_Nombre.AutoSize = true;
             this.L_Nombre.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.L_Nombre.ForeColor = System.Drawing.Color.White;
+<<<<<<< HEAD
             this.L_Nombre.Location = new System.Drawing.Point(346, 111);
+=======
+            this.L_Nombre.Location = new System.Drawing.Point(336, 110);
+>>>>>>> d25650e098d44ccb0a9d70f5211efe0806ee0877
             this.L_Nombre.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.L_Nombre.Name = "L_Nombre";
             this.L_Nombre.Size = new System.Drawing.Size(56, 16);
@@ -333,6 +413,10 @@
             this.Controls.Add(this.L_Nombre);
             this.Name = "Modificar_medico";
             this.Text = "Modificar_medico";
+<<<<<<< HEAD
+=======
+            this.Load += new System.EventHandler(this.Modificar_medico_Load);
+>>>>>>> d25650e098d44ccb0a9d70f5211efe0806ee0877
             ((System.ComponentModel.ISupportInitialize)(this.dataGridView1)).EndInit();
             this.panel1.ResumeLayout(false);
             this.panel1.PerformLayout();

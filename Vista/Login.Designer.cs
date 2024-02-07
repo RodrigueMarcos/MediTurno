@@ -82,7 +82,7 @@
             this.B_iniciarSesion.TabIndex = 4;
             this.B_iniciarSesion.Text = "Iniciar Sesion";
             this.B_iniciarSesion.UseVisualStyleBackColor = false;
-            this.B_iniciarSesion.Click += new System.EventHandler(this.button1_Click);
+            this.B_iniciarSesion.Click += new System.EventHandler(this.B_iniciarSesion_Click);
             // 
             // Login
             // 
@@ -98,6 +98,7 @@
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedSingle;
             this.MaximizeBox = false;
             this.Name = "Login";
+            this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Login";
             this.Load += new System.EventHandler(this.Login_Load);
             this.ResumeLayout(false);

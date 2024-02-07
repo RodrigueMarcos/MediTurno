@@ -45,7 +45,11 @@
             // 
             this.L_DatosPacientes.AutoSize = true;
             this.L_DatosPacientes.ForeColor = System.Drawing.Color.White;
+<<<<<<< HEAD
             this.L_DatosPacientes.Location = new System.Drawing.Point(271, 25);
+=======
+            this.L_DatosPacientes.Location = new System.Drawing.Point(207, 19);
+>>>>>>> d25650e098d44ccb0a9d70f5211efe0806ee0877
             this.L_DatosPacientes.Name = "L_DatosPacientes";
             this.L_DatosPacientes.Size = new System.Drawing.Size(102, 13);
             this.L_DatosPacientes.TabIndex = 27;
@@ -53,7 +57,11 @@
             // 
             // TB_Historial
             // 
+<<<<<<< HEAD
             this.TB_Historial.Location = new System.Drawing.Point(121, 216);
+=======
+            this.TB_Historial.Location = new System.Drawing.Point(57, 210);
+>>>>>>> d25650e098d44ccb0a9d70f5211efe0806ee0877
             this.TB_Historial.Multiline = true;
             this.TB_Historial.Name = "TB_Historial";
             this.TB_Historial.Size = new System.Drawing.Size(260, 98);
@@ -67,7 +75,11 @@
             this.panel1.Controls.Add(this.label8);
             this.panel1.Controls.Add(this.L_dni);
             this.panel1.Controls.Add(this.label7);
+<<<<<<< HEAD
             this.panel1.Location = new System.Drawing.Point(251, 45);
+=======
+            this.panel1.Location = new System.Drawing.Point(187, 39);
+>>>>>>> d25650e098d44ccb0a9d70f5211efe0806ee0877
             this.panel1.Name = "panel1";
             this.panel1.Size = new System.Drawing.Size(407, 122);
             this.panel1.TabIndex = 25;
@@ -136,7 +148,11 @@
             // 
             this.L_Historial.AutoSize = true;
             this.L_Historial.ForeColor = System.Drawing.Color.White;
+<<<<<<< HEAD
             this.L_Historial.Location = new System.Drawing.Point(118, 200);
+=======
+            this.L_Historial.Location = new System.Drawing.Point(54, 194);
+>>>>>>> d25650e098d44ccb0a9d70f5211efe0806ee0877
             this.L_Historial.Name = "L_Historial";
             this.L_Historial.Size = new System.Drawing.Size(44, 13);
             this.L_Historial.TabIndex = 24;

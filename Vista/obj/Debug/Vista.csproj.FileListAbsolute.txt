@@ -10,6 +10,7 @@ E:\Documents\Ingenieria de Software II\MediTurno\Vista\obj\Debug\Vista.csproj.Ge
 E:\Documents\Ingenieria de Software II\MediTurno\Vista\obj\Debug\Vista.csproj.CoreCompileInputs.cache
 E:\Documents\Ingenieria de Software II\MediTurno\Vista\obj\Debug\Vista.exe
 E:\Documents\Ingenieria de Software II\MediTurno\Vista\obj\Debug\Vista.pdb
+<<<<<<< HEAD
 E:\Documents\Ingenieria de Software II\MediTurno\Vista\obj\Debug\Vista.Secretario.Menu_secretario.resources
 E:\Documents\Ingenieria de Software II\MediTurno\Vista\obj\Debug\Vista.Secretario.Agregar_turno.resources
 E:\Documents\Ingenieria de Software II\MediTurno\Vista\obj\Debug\Vista.Secretario.Alta_paciente.resources
@@ -21,3 +22,28 @@ E:\Documents\Ingenieria de Software II\MediTurno\Vista\obj\Debug\Vista.Administr
 E:\Documents\Ingenieria de Software II\MediTurno\Vista\obj\Debug\Vista.Medico.Guardar_consulta.resources
 E:\Documents\Ingenieria de Software II\MediTurno\Vista\obj\Debug\Vista.Medico.Historial_paciente.resources
 E:\Documents\Ingenieria de Software II\MediTurno\Vista\obj\Debug\Vista.Medico.Menu_medico.resources
+=======
+C:\Users\Admin\Documents\Trabajo de Campo2\MediTurno\Vista\bin\Debug\Vista.exe.config
+C:\Users\Admin\Documents\Trabajo de Campo2\MediTurno\Vista\bin\Debug\Vista.exe
+C:\Users\Admin\Documents\Trabajo de Campo2\MediTurno\Vista\bin\Debug\Vista.pdb
+C:\Users\Admin\Documents\Trabajo de Campo2\MediTurno\Vista\obj\Debug\Vista.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\Trabajo de Campo2\MediTurno\Vista\obj\Debug\Vista.Administrador.Agregar_medico.resources
+C:\Users\Admin\Documents\Trabajo de Campo2\MediTurno\Vista\obj\Debug\Vista.Administrador.Agregar_secretario.resources
+C:\Users\Admin\Documents\Trabajo de Campo2\MediTurno\Vista\obj\Debug\Vista.Login.resources
+C:\Users\Admin\Documents\Trabajo de Campo2\MediTurno\Vista\obj\Debug\Vista.Medico.Guardar_consulta.resources
+C:\Users\Admin\Documents\Trabajo de Campo2\MediTurno\Vista\obj\Debug\Vista.Properties.Resources.resources
+C:\Users\Admin\Documents\Trabajo de Campo2\MediTurno\Vista\obj\Debug\Vista.Secretario.Alta_paciente.resources
+C:\Users\Admin\Documents\Trabajo de Campo2\MediTurno\Vista\obj\Debug\Vista.csproj.GenerateResource.cache
+C:\Users\Admin\Documents\Trabajo de Campo2\MediTurno\Vista\obj\Debug\Vista.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\Trabajo de Campo2\MediTurno\Vista\obj\Debug\Vista.exe
+C:\Users\Admin\Documents\Trabajo de Campo2\MediTurno\Vista\obj\Debug\Vista.pdb
+C:\Users\Admin\Documents\Trabajo de Campo2\MediTurno\Vista\obj\Debug\Vista.Secretario.Agregar_turno.resources
+C:\Users\Admin\Documents\Trabajo de Campo2\MediTurno\Vista\obj\Debug\Vista.Secretario.Menu_secretario.resources
+C:\Users\Admin\Documents\Trabajo de Campo2\MediTurno\Vista\obj\Debug\Vista.Secretario.Modificar_turno.resources
+C:\Users\Admin\Documents\Trabajo de Campo2\MediTurno\Vista\obj\Debug\Vista.Secretario.Modificar_paciente.resources
+C:\Users\Admin\Documents\Trabajo de Campo2\MediTurno\Vista\obj\Debug\Vista.Administrador.Menu_administrador.resources
+C:\Users\Admin\Documents\Trabajo de Campo2\MediTurno\Vista\obj\Debug\Vista.Administrador.Modificar_medico.resources
+C:\Users\Admin\Documents\Trabajo de Campo2\MediTurno\Vista\obj\Debug\Vista.Administrador.Modificar_secretario.resources
+C:\Users\Admin\Documents\Trabajo de Campo2\MediTurno\Vista\obj\Debug\Vista.Medico.Historial_paciente.resources
+C:\Users\Admin\Documents\Trabajo de Campo2\MediTurno\Vista\obj\Debug\Vista.Medico.Menu_medico.resources
+>>>>>>> d25650e098d44ccb0a9d70f5211efe0806ee0877

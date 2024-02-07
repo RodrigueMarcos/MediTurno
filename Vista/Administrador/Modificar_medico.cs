@@ -16,5 +16,13 @@ namespace Vista.Administrador
         {
             InitializeComponent();
         }
+<<<<<<< HEAD
+=======
+
+        private void Modificar_medico_Load(object sender, EventArgs e)
+        {
+
+        }
+>>>>>>> d25650e098d44ccb0a9d70f5211efe0806ee0877
     }
 }

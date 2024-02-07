@@ -7,3 +7,12 @@ E:\Documents\Ingenieria de Software II\MediTurno\MediTurno\obj\Debug\Controlador
 E:\Documents\Ingenieria de Software II\MediTurno\MediTurno\obj\Debug\Controlador.csproj.CoreCompileInputs.cache
 E:\Documents\Ingenieria de Software II\MediTurno\MediTurno\obj\Debug\MediTurno.exe
 E:\Documents\Ingenieria de Software II\MediTurno\MediTurno\obj\Debug\MediTurno.pdb
+C:\Users\Admin\Documents\Trabajo de Campo\MediTurno\MediTurno\bin\Debug\MediTurno.exe.config
+C:\Users\Admin\Documents\Trabajo de Campo\MediTurno\MediTurno\bin\Debug\MediTurno.exe
+C:\Users\Admin\Documents\Trabajo de Campo\MediTurno\MediTurno\bin\Debug\MediTurno.pdb
+C:\Users\Admin\Documents\Trabajo de Campo\MediTurno\MediTurno\obj\Debug\Controlador.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\Trabajo de Campo\MediTurno\MediTurno\obj\Debug\MediTurno.Properties.Resources.resources
+C:\Users\Admin\Documents\Trabajo de Campo\MediTurno\MediTurno\obj\Debug\Controlador.csproj.GenerateResource.cache
+C:\Users\Admin\Documents\Trabajo de Campo\MediTurno\MediTurno\obj\Debug\Controlador.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\Trabajo de Campo\MediTurno\MediTurno\obj\Debug\MediTurno.exe
+C:\Users\Admin\Documents\Trabajo de Campo\MediTurno\MediTurno\obj\Debug\MediTurno.pdb
