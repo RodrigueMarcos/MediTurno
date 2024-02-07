@@ -3,10 +3,6 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.8.34408.163
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Controlador", "MediTurno\Controlador.csproj", "{06687593-6069-4C42-8C62-7D1818DF6F29}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Modelo", "CapaDatos\Modelo.csproj", "{00D7377F-EF2D-47B7-8049-41E016410EC1}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Vista", "Vista\Vista.csproj", "{CF290984-1DA1-47E4-8283-9A9633B297C3}"
 EndProject
 Global
@@ -15,14 +11,6 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{06687593-6069-4C42-8C62-7D1818DF6F29}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{06687593-6069-4C42-8C62-7D1818DF6F29}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{06687593-6069-4C42-8C62-7D1818DF6F29}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{06687593-6069-4C42-8C62-7D1818DF6F29}.Release|Any CPU.Build.0 = Release|Any CPU
-		{00D7377F-EF2D-47B7-8049-41E016410EC1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{00D7377F-EF2D-47B7-8049-41E016410EC1}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{00D7377F-EF2D-47B7-8049-41E016410EC1}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{00D7377F-EF2D-47B7-8049-41E016410EC1}.Release|Any CPU.Build.0 = Release|Any CPU
 		{CF290984-1DA1-47E4-8283-9A9633B297C3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{CF290984-1DA1-47E4-8283-9A9633B297C3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CF290984-1DA1-47E4-8283-9A9633B297C3}.Release|Any CPU.ActiveCfg = Release|Any CPU
